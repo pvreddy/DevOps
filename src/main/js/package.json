@@ -1,0 +1,15 @@
+{
+  "name": "kalam node.js",
+  "version": "11.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "java"
+  ],
+  "contributors": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
